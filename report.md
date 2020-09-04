@@ -11,6 +11,6 @@ Piazza Post:
 
 **Skill 4: Uploading Video to Cloud**<br/>
 Name: Se'Lina Lasher
-Content [Link](https://drive.google.com/file/d/1VZ_I1AJwsZGRZhX8DZXpN17gRsuCtVZK/preview)
+Content [![Link](doc/https://user-images.githubusercontent.com/55998621/92254274-a3e29380-ee9e-11ea-838d-28f6de99b0c6.png)](https://drive.google.com/file/d/1VZ_I1AJwsZGRZhX8DZXpN17gRsuCtVZK/preview)
 
 **Skill 5: Install ESP32 IDF and Toolchain and Demonstration Blink**<br/>
